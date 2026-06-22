@@ -1,0 +1,8 @@
+{
+  "description": "fincept-clone session bootstrap",
+  "context": {
+    "fincept_terminal_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+    "ruflo_system_url": "https://github.com/minoroncrack/ruflo-clone",
+    "architecture": "Ruflo thinks and decides. Fincept Terminal provides market data, analytics, and execution."
+  }
+}
