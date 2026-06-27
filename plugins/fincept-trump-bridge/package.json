@@ -1,0 +1,13 @@
+{
+  "name": "fincept-trump-bridge",
+  "version": "1.0.0",
+  "description": "Pushes Trump Trade Scanner signals into Fincept Terminal as a live data feed",
+  "type": "module",
+  "scripts": {
+    "start": "node src/bridge.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
